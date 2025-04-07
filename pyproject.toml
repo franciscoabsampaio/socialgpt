@@ -1,0 +1,19 @@
+[project]
+name = "socialgpt"
+version = "0.1.0"
+readme = "README.md"
+description = "A social language model."
+# license = {file = "LICENSE.txt"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy >= 1.21.0",
+    "torch >= 2.6.0",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest >=2.7.3",
+]
+
+[project.scripts]
+socialgpt = "socialgpt.main:main"
