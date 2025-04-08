@@ -11,6 +11,14 @@ Balance logic and emotion by adding an emotional regulation component and measur
 
 Simulate and iterate, refining agent behavior as they engage in increasingly complex negotiations.
 
+## G2P (Grapheme to Phoneme) Tokenization
+
+reference 1: pg 10/10
+
+### References
+
+1. **2022.** Xinjian Li and Florian Metze and David R Mortensen, Shinji Watanabe and Alan W Black. *Zero-shot Learning for Grapheme to Phoneme Conversion with Language Ensemble.*
+
 ## Emotion Models
 
 Many approaches have been proposed for modelling emotions:
